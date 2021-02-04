@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomObjectDetection</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">TFL Detect</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+    <!-- covid sub menu-->
+    <string name="admim">Admin</string>
+    <string name="volume">Volume</string>
+    <string name="light">Light</string>
+    <string name="exit">Exit</string>
+    <string name="bluetooth">Bluetooth</string>
+
+</resources>

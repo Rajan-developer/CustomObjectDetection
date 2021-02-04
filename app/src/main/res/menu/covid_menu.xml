@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_admin"
+        android:title="@string/admim"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_volume"
+        android:title="@string/volume"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_light"
+        android:title="@string/light"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_bluetooth"
+        android:title="@string/bluetooth"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/exit"
+        app:showAsAction="ifRoom"></item>
+
+</menu>
